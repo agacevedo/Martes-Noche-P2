@@ -1,0 +1,64 @@
+# =============================
+# Java / JVM
+# =============================
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.hprof
+hs_err_pid*
+replay_pid*
+
+# =============================
+# Build outputs
+# =============================
+out/
+target/
+build/
+dist/
+bin/
+.gradle/
+
+# =============================
+# IntelliJ IDEA
+# =============================
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# =============================
+# VS Code
+# =============================
+.vscode/
+
+# =============================
+# Logs / temp / caches
+# =============================
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+*.swp
+*.swo
+*~
+
+# =============================
+# OS generated files
+# =============================
+.DS_Store
+Thumbs.db
+
+# =============================
+# Other common Java IDEs/tools
+# =============================
+.classpath
+.project
+.settings/
+.metadata/
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
